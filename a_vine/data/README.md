@@ -4,9 +4,10 @@ This folder contains original data sources and scripts for preprocessing data fo
 ## Folder with the orignal data source
 raw_data
 
-## Preprocessed data
+## Data ready for MEMOTE
 growth -- biolog data\
-essentiality -- shotgun knockout data
+essentiality -- shotgun knockout data\
+excreted -- table with one key excreted metabolite - ammonia
 
 ## Files necessary for setting up MEMOTE tests
 media\

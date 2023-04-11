@@ -1,7 +1,7 @@
 ## Overview
 This folder contains original data sources and scripts for preprocessing data for use with MEMOTE.
 
-## Data ready for MEMOTE
+## Folder structure
 growth -- biolog data\
 essentiality -- shotgun knockout data\
 excreted -- table with one key excreted metabolite - ammonia

@@ -19,7 +19,7 @@ essentiality:
   experiments:
     knockouts:
       medium: glucose
-      filename: "knockouts.csv"
+      filename: "ge_knockouts.csv"
       label: "knock-out library"
 growth:
   path: "growth/"
